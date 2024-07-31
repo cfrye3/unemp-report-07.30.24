@@ -1,0 +1,7 @@
+# this is the requirements.txt
+
+# one on each line
+
+requests
+plotly
+python-dotenv
