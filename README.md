@@ -21,6 +21,9 @@ Install packages:
 pip install -r requirements.txt
 ```
 
+Access API Key from ALPHAVANTAGE
+Also create a ".env" file in the root directory of the repo, and paste some contents in like this
+
 ## Usage
 
 Run the script:
