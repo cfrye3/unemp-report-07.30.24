@@ -29,8 +29,13 @@ Also create a ".env" file in the root directory of the repo, and paste some cont
 Run the script:
 
 ```sh
-python app/unemp.py
+#python app/unemp.py
 
-# equivalent:
+# equivalent (modular command) --> need to use this when importing files across each other
 python -m app.unemp
 ```
+
+stocks report:
+
+```sh
+python -m app.stocks
