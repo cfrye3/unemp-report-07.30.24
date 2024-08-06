@@ -11,7 +11,7 @@ conda create -n ump-env python=3.11
 Activate the environment
 
 ```sh
-conda activate unemp-env
+conda activate ump-env
 ```
 
 Install packages:
