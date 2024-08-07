@@ -8,4 +8,6 @@ plotly
 python-dotenv
 flask
 
+gunicorn # for the production server (DEPLOYING)
+
 pytest
